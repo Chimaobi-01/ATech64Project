@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function Header({image}) {
   return (
-    <nav className='flex justify-between items-center py-8 pl-24 pr-40 mb-10 h-16 bg-white border-b border-zinc-500 '>
+    <nav className=' flex justify-between items-center py-8 pl-24 pr-40 mb-10 h-16 bg-white border-b border-zinc-500 '>
       <span className='text-zinc-500 text-2xl font-bold leading-loose'>Familiz</span>
       {/* search input*/}       
 <form className='basis-6/12'>   
