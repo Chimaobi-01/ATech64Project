@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-.grid {
+.gridLayout {
     padding: 10px;
     display: grid;
     grid-template-columns: 20vw auto 24vw;

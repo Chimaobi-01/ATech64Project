@@ -15,7 +15,7 @@ export default function Homepage() {
   return (
     <div className='bg-stone-50 h-screen w-full relative'>
       <Header image={avatar2} />
-      <div className='grid bg-stone-50'>
+      <div className='gridLayout bg-stone-50'>
         <div className='sticky h-max top-8 left-0 flex flex-col gap-8'>
           <Profile image={avatar2} />
           <Menu />

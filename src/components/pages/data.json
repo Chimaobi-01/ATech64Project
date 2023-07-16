@@ -1,0 +1,44 @@
+[
+    {
+        "Name": ["Olivia Rhye", "@olivie","../../assets/familyList/Avatar_1.png"],
+        "Gender": "male",
+        "Father": "michael",
+        "Mother": "maureen",
+        "Spouse": "Abigail"
+    },
+    {
+        "Name": "Olivia Rhye",
+        "Gender": "male",
+        "Father": "michael",
+        "Mother": "maureen",
+        "Spouse": "Abigail"
+    },
+    {
+        "Name": ["Olivia Rhye", "@olivie"],
+        "Gender": "male",
+        "Father": "michael",
+        "Mother": "maureen",
+        "Spouse": "Abigail"
+    },
+    {
+        "Name": ["Olivia Rhye", "@olivie"],
+        "Gender": "male",
+        "Father": "michael",
+        "Mother": "maureen",
+        "Spouse": "Abigail"
+    },
+    {
+        "Name": ["Olivia Rhye", "@olivie"],
+        "Gender": "male",
+        "Father": "michael",
+        "Mother": "maureen",
+        "Spouse": "Abigail"
+    },
+    {
+        "Name": ["Olivia Rhye", "@olivie"],
+        "Gender": "male",
+        "Father": "michael",
+        "Mother": "maureen",
+        "Spouse": "Abigail"
+    }
+]
