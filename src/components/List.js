@@ -6,9 +6,9 @@ import {
     flexRender
 } from '@tanstack/react-table'
 
-import Avatar_1 from '../../assets/familyList/Avatar_1.png'
+import Avatar_1 from '../assets/Avatar1.png'
 
-import defaultData from './data.json'
+import defaultData from '../data/data.json'
 
 
 const columnHelper = createColumnHelper()

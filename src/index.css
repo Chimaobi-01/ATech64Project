@@ -5,16 +5,9 @@
 *>* {
     box-sizing: border-box;
 }
-
-.gridLayout {
-    padding: 10px;
-    display: grid;
-    grid-template-columns: 20vw auto 24vw;
-    gap: 2rem;
+html {
+    font-size: 14px;
 }
-
-.container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    gap: 10px;
-  }
+.card-shadow {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}

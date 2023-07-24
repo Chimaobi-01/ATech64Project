@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from './Header'
-import Form from './pages/Form'
-import Profile from './pages/Profile'
-import Menu from './pages/Menu'
+import Header from '../components/Header'
+import Form from '../components/Form'
+import Profile from '../components/Profile'
+import Menu from '../components/Menu'
 
 import avatar2 from '../assets/Avatar2.png'
 

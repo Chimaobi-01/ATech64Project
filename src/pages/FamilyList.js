@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from './Header'
-import List from './pages/List'
-import Profile from './pages/Profile'
-import Menu from './pages/Menu'
+import Header from '../components/Header'
+import List from '../components/List'
+import Profile from '../components/Profile'
+import Menu from '../components/Menu'
 
 import avatar2 from '../assets/Avatar2.png'
 
